@@ -13,7 +13,7 @@
       <img src={svelteLogo} class="logo svelte" alt="Svelte Logo" />
     </a>
   </div>
-  <h1>1123019 - Steven Pangestu</h1>
+  <h1>1123004 - Jonathan Alfons</h1>
 
   <div class="card">
     <Counter />
